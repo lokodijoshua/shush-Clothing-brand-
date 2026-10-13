@@ -1,0 +1,6 @@
+{
+  "name": "HUSH — Futuristic Luxury Bags",
+  "description": "Futuristic luxury handbags combining cybernetic innovation, organic sculpture, and everyday practicality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
